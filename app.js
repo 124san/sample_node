@@ -2,6 +2,6 @@ const express = require('express')
 const app = express()
 const port = 80
 
-app.get('/', (req, res) => res.send('root'))
+// app.get('/', (req, res) => res.send("index.html"))
 
 app.listen(port, () => console.log(`My app listening on port ${port}!`))
