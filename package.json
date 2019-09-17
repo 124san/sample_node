@@ -1,0 +1,14 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "a sample node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dehou Kong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
